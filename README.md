@@ -1,6 +1,6 @@
 ### Hello World, I'm Juan  👋
 
- <img align="right" alt="GIF" src="https://github.com/jsacerot/jsacerot/main/data_scientist.gif?raw=true" width="400" height="560" />
+ <img align="right" alt="GIF" src="https://github.com/jsacerot/jsacerot.bc/main/data_scientist.gif?raw=true" width="400" height="560" />
 
 
 ## I'm a data scientist and hydrometeorologist!!
