@@ -29,10 +29,11 @@ ___
 - &nbsp;
   ![ArcGIS](https://img.shields.io/badge/-ArcGIS-333333?style=flat&logo=ArcGIS)
 
-#### 🤝🏻 &nbsp;Connect with Me
-<a href="https://www.linkedin.com/in/juan-s-acero-triana/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20S.%20Acero%20Triana-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.researchgate.net/profile/Juan-S-Acero-Triana/"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Juan%20S.%20Acero%20Triana-blue?style=flat-square&logo=ResearchGate"></a>
-<a href="https://scholar.google.com/citations?user=-_zEMN0AAAAJ&hl=en/"><img alt="GoogleScholar" src="https://img.shields.io/badge/Scholar-Juan%20S.%20Acero%20Triana-blue?style=flat-square&logo=GoogleScholar"></a>
-<a href="mailto:juanseba@ucr.edu"><img alt="Email" src="https://img.shields.io/badge/Email-juanseba@ucr.edu-blue?style=flat-square&logo=gmail"></a>
+#### 🤝🏻 &nbsp;Connect with Me:
+
+<a href="https://www.linkedin.com/in/juan-s-acero-triana/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.researchgate.net/profile/Juan-S-Acero-Triana/"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-blue?style=flat-square&logo=ResearchGate"></a>
+<a href="https://scholar.google.com/citations?user=-_zEMN0AAAAJ&hl=en/"><img alt="GoogleScholar" src="https://img.shields.io/badge/Google%20Scholar-blue?style=flat-square&logo=GoogleScholar"></a>
+<a href="mailto:juanseba@ucr.edu"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
 
 
