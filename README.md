@@ -1,4 +1,4 @@
-#### Data scientist | Hydrometeorologist
+#### Data science | Water Resources | Environmental Modeling
 ___
 ### Juan S. Acero Triana 👋
 ___
